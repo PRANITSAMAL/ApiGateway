@@ -1,0 +1,194 @@
+D:\My Desk\Practice\ProductService_App\ProductService_App\bin\Debug\net6.0\appsettings.Development.json
+D:\My Desk\Practice\ProductService_App\ProductService_App\bin\Debug\net6.0\appsettings.json
+D:\My Desk\Practice\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.exe
+D:\My Desk\Practice\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.deps.json
+D:\My Desk\Practice\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.runtimeconfig.json
+D:\My Desk\Practice\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.dll
+D:\My Desk\Practice\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.pdb
+D:\My Desk\Practice\ProductService_App\ProductService_App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\My Desk\Practice\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My Desk\Practice\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My Desk\Practice\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My Desk\Practice\ProductService_App\ProductService_App\bin\Debug\net6.0\ECommerceDataModel.dll
+D:\My Desk\Practice\ProductService_App\ProductService_App\bin\Debug\net6.0\ECommerceDataModel.pdb
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.AssemblyReference.cache
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.AssemblyInfoInputs.cache
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.AssemblyInfo.cs
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.CoreCompileInputs.cache
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.MvcApplicationPartsAssemblyInfo.cs
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.MvcApplicationPartsAssemblyInfo.cache
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.build.json
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.development.json
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\scopedcss\bundle\ProductService_App.styles.css
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.CopyComplete
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.dll
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\refint\ProductService_App.dll
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.pdb
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.genruntimeconfig.cache
+D:\My Desk\Practice\ProductService_App\ProductService_App\obj\Debug\net6.0\ref\ProductService_App.dll
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\appsettings.Development.json
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\appsettings.json
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.exe
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.deps.json
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.runtimeconfig.json
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.dll
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.pdb
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ECommerceDataModel.dll
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ECommerceDataModel.pdb
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.AssemblyReference.cache
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.AssemblyInfoInputs.cache
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.AssemblyInfo.cs
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.CoreCompileInputs.cache
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.MvcApplicationPartsAssemblyInfo.cs
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.MvcApplicationPartsAssemblyInfo.cache
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.build.json
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.development.json
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\scopedcss\bundle\ProductService_App.styles.css
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.CopyComplete
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.dll
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\refint\ProductService_App.dll
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.pdb
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.genruntimeconfig.cache
+D:\My Desk\Practice\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ref\ProductService_App.dll
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.exe
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.deps.json
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.runtimeconfig.json
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.dll
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.pdb
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ECommerceDataModel.dll
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ECommerceDataModel.pdb
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.AssemblyInfo.cs
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.ProductService_App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.build.ProductService_App.props
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProductService_App.props
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProductService_App.props
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\scopedcss\bundle\ProductService_App.styles.css
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.CopyComplete
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.dll
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\refint\ProductService_App.dll
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.pdb
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.genruntimeconfig.cache
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ref\ProductService_App.dll
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.exe
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.deps.json
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.runtimeconfig.json
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.dll
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.pdb
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ECommerceDataModel.dll
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ECommerceDataModel.pdb
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.ProductService_App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.build.ProductService_App.props
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProductService_App.props
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProductService_App.props
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\scopedcss\bundle\ProductService_App.styles.css
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.CopyComplete
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.dll
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\refint\ProductService_App.dll
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.pdb
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ref\ProductService_App.dll
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\appsettings.Development.json
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\appsettings.json
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.exe
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.deps.json
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.runtimeconfig.json
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.dll
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.pdb
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ECommerceDataModel.dll
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ECommerceDataModel.pdb
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.AssemblyReference.cache
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.AssemblyInfoInputs.cache
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.AssemblyInfo.cs
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.CoreCompileInputs.cache
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.MvcApplicationPartsAssemblyInfo.cs
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.MvcApplicationPartsAssemblyInfo.cache
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.ProductService_App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.build.ProductService_App.props
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProductService_App.props
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProductService_App.props
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.pack.json
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.build.json
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.development.json
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\scopedcss\bundle\ProductService_App.styles.css
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.CopyComplete
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.dll
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\refint\ProductService_App.dll
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.pdb
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.genruntimeconfig.cache
+D:\pythonproject\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ref\ProductService_App.dll
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\appsettings.Development.json
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\appsettings.json
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.exe
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.deps.json
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.runtimeconfig.json
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.dll
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ProductService_App.pdb
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ECommerceDataModel.dll
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\bin\Debug\net6.0\ECommerceDataModel.pdb
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.AssemblyReference.cache
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.AssemblyInfoInputs.cache
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.AssemblyInfo.cs
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.CoreCompileInputs.cache
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.MvcApplicationPartsAssemblyInfo.cs
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.MvcApplicationPartsAssemblyInfo.cache
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.ProductService_App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.build.ProductService_App.props
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProductService_App.props
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProductService_App.props
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.pack.json
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.build.json
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\staticwebassets.development.json
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\scopedcss\bundle\ProductService_App.styles.css
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.csproj.CopyComplete
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.dll
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\refint\ProductService_App.dll
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.pdb
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ProductService_App.genruntimeconfig.cache
+D:\pranitowner\ECommerceApp\ECommerceApp\ProductService_App\ProductService_App\obj\Debug\net6.0\ref\ProductService_App.dll

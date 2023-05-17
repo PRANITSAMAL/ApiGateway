@@ -1,0 +1,72 @@
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.deps.json
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.dll
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.pdb
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.AssemblyReference.cache
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfoInputs.cache
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfo.cs
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.CoreCompileInputs.cache
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.dll
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\refint\ECommerceDataModel.dll
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.pdb
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ref\ECommerceDataModel.dll
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.deps.json
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.dll
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.pdb
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfo.cs
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.dll
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\refint\ECommerceDataModel.dll
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.pdb
+C:\Users\Admin\Desktop\pranitref\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ref\ECommerceDataModel.dll
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.deps.json
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.dll
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.pdb
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.dll
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\refint\ECommerceDataModel.dll
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.pdb
+C:\Users\Admin\Desktop\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ref\ECommerceDataModel.dll
+D:\pythonproject\ECommerceApp\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.deps.json
+D:\pythonproject\ECommerceApp\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.dll
+D:\pythonproject\ECommerceApp\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.pdb
+D:\pythonproject\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.AssemblyReference.cache
+D:\pythonproject\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\pythonproject\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfoInputs.cache
+D:\pythonproject\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfo.cs
+D:\pythonproject\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.CoreCompileInputs.cache
+D:\pythonproject\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.dll
+D:\pythonproject\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\refint\ECommerceDataModel.dll
+D:\pythonproject\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.pdb
+D:\pythonproject\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ref\ECommerceDataModel.dll
+D:\pythonproject\ECommerceApp\ApiGateway\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.deps.json
+D:\pythonproject\ECommerceApp\ApiGateway\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.dll
+D:\pythonproject\ECommerceApp\ApiGateway\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.pdb
+D:\pythonproject\ECommerceApp\ApiGateway\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.AssemblyReference.cache
+D:\pythonproject\ECommerceApp\ApiGateway\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\pythonproject\ECommerceApp\ApiGateway\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfoInputs.cache
+D:\pythonproject\ECommerceApp\ApiGateway\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfo.cs
+D:\pythonproject\ECommerceApp\ApiGateway\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.CoreCompileInputs.cache
+D:\pythonproject\ECommerceApp\ApiGateway\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.dll
+D:\pythonproject\ECommerceApp\ApiGateway\ECommerceDataModel\obj\Debug\net6.0\refint\ECommerceDataModel.dll
+D:\pythonproject\ECommerceApp\ApiGateway\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.pdb
+D:\pythonproject\ECommerceApp\ApiGateway\ECommerceDataModel\obj\Debug\net6.0\ref\ECommerceDataModel.dll
+D:\pranitowner\ECommerceApp\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.deps.json
+D:\pranitowner\ECommerceApp\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.dll
+D:\pranitowner\ECommerceApp\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.pdb
+D:\pranitowner\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.AssemblyReference.cache
+D:\pranitowner\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\pranitowner\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfoInputs.cache
+D:\pranitowner\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfo.cs
+D:\pranitowner\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.CoreCompileInputs.cache
+D:\pranitowner\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.dll
+D:\pranitowner\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\refint\ECommerceDataModel.dll
+D:\pranitowner\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.pdb
+D:\pranitowner\ECommerceApp\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ref\ECommerceDataModel.dll
